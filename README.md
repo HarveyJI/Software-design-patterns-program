@@ -3,6 +3,7 @@
 
 
 简单工厂模式
+![image](https://github.com/HarveyJI/Software-design-patterns-program/assets/78439035/a6327675-b74c-4ad8-afe3-e10e9a1bf901)
 
 抽象工厂模式
 
